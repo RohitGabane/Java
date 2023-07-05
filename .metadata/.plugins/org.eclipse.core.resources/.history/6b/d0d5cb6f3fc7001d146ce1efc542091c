@@ -1,0 +1,13 @@
+//2)	declare two numbers and one operator as a character. e.g. '+'
+
+public class Demo8 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int a;
+		int b;
+		char ch='-';
+           System.out.println("");
+	}
+
+}

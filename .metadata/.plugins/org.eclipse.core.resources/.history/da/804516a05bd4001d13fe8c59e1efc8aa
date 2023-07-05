@@ -1,0 +1,10 @@
+//3) write a file copy program using byte streams.
+//( FileOutputStream and FileInputStream )
+public class Demo3 {
+
+	public static void main(String[] args) 
+	{
+                       
+	}
+
+}

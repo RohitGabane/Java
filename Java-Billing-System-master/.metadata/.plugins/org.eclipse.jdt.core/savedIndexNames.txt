@@ -1,0 +1,2 @@
+INDEX VERSION 1.132+C:\Users\Admin\OneDrive\Desktop\Java-Billing-System-master\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index

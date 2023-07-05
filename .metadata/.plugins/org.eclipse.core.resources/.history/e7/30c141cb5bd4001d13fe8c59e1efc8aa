@@ -1,0 +1,19 @@
+/*5) accept as many as numbers from user till he presses "0"  and write these 
+numbers in a file. Now Open a file and read these numbers. 
+( Hint :- use Scanner class for input, FileOutputStream, DataOutputStream, 
+FileInputStream , DataInputStream)
+FileInputStream fis=new FileInputStream("d:\\abc.txt");
+DataInputStream dis=new DataInputStream(fis);
+
+while(dis.available()!=0)
+{
+	S.o.p(dis.readInt());
+}*/
+public class Demo5 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

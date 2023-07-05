@@ -1,0 +1,10 @@
+/*4) Write a file copy program using unicode character streams.
+( FileWriter and FileReader */
+public class Demo4 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

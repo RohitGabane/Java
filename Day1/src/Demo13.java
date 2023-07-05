@@ -1,0 +1,35 @@
+//2)	declare two numbers and one operator as a character. e.g. '+'
+//using switch... case check which operator is declared and accordingly perform the action.
+import java.util.Scanner;
+
+public class Demo13 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		  Scanner sc = new Scanner (System.in);
+		    System.out.println(" Enter First number");
+		    double a= sc.nextDouble();
+		    System.out.println(" Enter Second number");
+		    double b= sc.nextDouble();
+		    
+		    System.out.println(" Enter Operator");
+		    char c= sc.next().charAt(0);
+		    double ans=0;
+		   switch(c){
+		    case '+': ans=a+b;
+		                break;
+		    case '-': ans=a-b;
+		                break;
+		    case '*': ans=a*b;
+		                break;
+		    case '/': ans=a/b;
+		                break;
+		    default: System.out.println(" Invalid Operator"); 
+		}
+		    System.out.println("Ans : "+ans);
+		}
+
+
+	}
+
+
